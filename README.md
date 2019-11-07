@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ferchubrizuela/ContosoAir/_apis/build/status/ferbrizu.ContosoAir?branchName=master)](https://dev.azure.com/ferchubrizuela/ContosoAir/_build/latest?definitionId=15&branchName=master)
 
 
 # Microsoft.Github CI Demo
