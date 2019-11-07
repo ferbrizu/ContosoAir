@@ -3,6 +3,7 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"p_environment": {
+			"defaultValue": "env",
 			"type": "string"
 		},
 		"p_separator": {
