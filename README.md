@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ferchubrizuela/2687d698-95df-4b6a-9f99-2b9c3c1d7457/f63a296e-4c64-4d5a-9c15-f66dd12ed585/_apis/work/boardbadge/2e0b01f5-fdc9-458d-8e07-67e895259b09)](https://dev.azure.com/ferchubrizuela/2687d698-95df-4b6a-9f99-2b9c3c1d7457/_boards/board/t/f63a296e-4c64-4d5a-9c15-f66dd12ed585/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/ferchubrizuela/ContosoAir/_apis/build/status/ferbrizu.ContosoAir?branchName=master)](https://dev.azure.com/ferchubrizuela/ContosoAir/_build/latest?definitionId=15&branchName=master)
 
 
