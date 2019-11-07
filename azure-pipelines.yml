@@ -5,7 +5,7 @@ trigger:
 steps:
   - task: Npm@1
     inputs:
-      command: install --unsafe-perm=true --allow-root
+      command: install
   - script: 'npm test'
     displayName: 'Run unit tests'
     continueOnError: true
